@@ -1,0 +1,3 @@
+| Project name | Description | Libraries used | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Music in the Big Cities](Music in the Big Cities) |You are about to compare musical preferences in the cities of Springfield and Shelbyville. Then study the actual data to test hypotheses and compare user behavior in these two cities. | *pandas* |
