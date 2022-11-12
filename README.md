@@ -1,6 +1,6 @@
-# Practicum-by-Yandex-Data-Analytics-Bootcamp-
-This repository contains assignments and projects that I worked on while studying at the Practicum by Yandex "Data Analytics Bootcamp".
-
-The assignments and projects is completed as a final requirement for the completion of each module. Each learning module has a different Final Assignment.
-
-Overall, the assignments and projects is published in Bahasa Indonesia (Indonesian).
+# Practicum Projects
+Compilation of all projects completed throughout [Practicum's Data Analytics Bootcamp]()(https://practicum.com/id-idn/data-analyst-beta/).
+| Project | Description | Libraries |
+| :---: | :---: | :---: |
+| [Project 1 - Musik di Kota Besar](https://github.com/dalevizos/practicum_projects/blob/main/credit_score_analysis/credit-score-analysis_project.ipynb) | Membandingkan preferensi musik di kota Springfield dan Shelbyville. Saya akan mempelajari data Y.Music yang sebenarnya untuk menguji hipotesis di bawah ini dan membandingkan perilaku pengguna di kedua kota ini. | pandas |
+| [Project 2 - Menganalisis Risiko Gagal Bayar Peminjam](https://github.com/dalevizos/practicum_projects/blob/main/vehicle_price_analysis/vehicle_price_analysis_project.ipynb) | Menyiapkan laporan untuk divisi kredit suatu bank. Saya akan mencari tahu pengaruh status perkawinan seorang nasabah dan jumlah anak yang dimilikinya terhadap probabilitas gagal bayar dalam pelunasan pinjaman. | pandas, numpy, seaborn |
