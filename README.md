@@ -1,5 +1,5 @@
 # Practicum Projects
-Compilation of all projects completed throughout [Practicum's Data Analytics Bootcamp]()(https://practicum.com/id-idn/data-analyst-beta/).
+Compilation of all projects completed throughout [Practicum's Data Analytics Bootcamp]() (https://practicum.com/id-idn/data-analyst-beta/).
 | Project | Description | Libraries |
 | :---: | :---: | :---: |
 | [Project 1 - Musik di Kota Besar](https://github.com/dalevizos/practicum_projects/blob/main/credit_score_analysis/credit-score-analysis_project.ipynb) | Membandingkan preferensi musik di kota Springfield dan Shelbyville. Saya akan mempelajari data Y.Music yang sebenarnya untuk menguji hipotesis di bawah ini dan membandingkan perilaku pengguna di kedua kota ini. | pandas |
